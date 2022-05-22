@@ -1,0 +1,153 @@
+/**************tag-editor**************/
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  color: #2F8F9D;
+  font-size: 4.375rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-weight: normal;
+  font-family: 'Rubik' ,sans-serif;
+  color: #2F8F9D;
+
+
+}
+
+
+h3 {
+  font-family: 'Rubik', sans-serif;
+  color: #2F8F9D;
+  font-size: 3.125rem;
+}
+
+p {
+  font-family: 'Rubik' , sans-serif;
+  line-height: 2;
+}
+
+hr {
+  width: 7%;
+  border-style: dotted none none none;
+  border-width: 7px;
+  border-color: #F1EEE9;
+  margin-top: 50px;
+
+}
+
+a {
+  color: #2F8F9D;
+  text-decoration: none;
+  margin:10px 20px 10px 20px;
+  font-family: 'Merriweather',sans-serif;
+}
+
+a:hover {
+  color: white;
+}
+
+span {
+  text-decoration: underline;
+}
+
+/**************class-editor**************/
+.opener {
+  background-color: #F1EEE9;
+  position: relative;
+  padding-top: 110px;
+
+}
+
+.shalli {
+  width: 30%;
+}
+
+.donut {
+  width: 25%;
+  border-radius: 100%;
+}
+
+.chilli {
+  width: 25%;
+}
+
+.profile{
+  width: 60%;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #EFFFFD;
+}
+
+.skills {
+  background-color: #EFFFFD;
+}
+
+.stock {
+  width: 80%;
+ padding-top: 10px;
+ margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 5%;
+  bottom: 430px;
+  width: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 250px;
+  left: 5%;
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.bottom-container {
+  background-color: #BDEAE9;
+  padding: 50px 0 20px 0;
+}
+
+.contact-me {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+}
+
+.btn {
+  background-color: #3BACB6;
+  padding: 10px 200px 10px 200px;
+  border-radius: 5px;
+  color: #2F8F9D;
+  font-family: 'Montserrat' , sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 0 0 0;
+}
+
+.c-m {
+  width: 50%;
+  margin: 0 auto 40px auto;
+}
+
+.copyright {
+  color: #2F8F9D;
+  font-size: 0.75rem;
+  padding: 20px 0 0 0;
+}
+
+/**************id-editor**************/
